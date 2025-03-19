@@ -1,2 +1,1 @@
-# danki-coder
-My personal repository
+# About me
